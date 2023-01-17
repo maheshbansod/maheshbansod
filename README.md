@@ -4,7 +4,7 @@ Hello, it's Light. :wave:
 
 :chart_with_upwards_trend: my github stats
 
-![Mahesh's Github stats](https://github-readme-stats.vercel.app/api?username=maheshbansod&show_icons=true&theme=tokyonight)
+WIP. \[Coming soon (probably)\]
 
 :bulb: :mag: stackoverflow stats  
 
