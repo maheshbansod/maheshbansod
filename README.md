@@ -1,11 +1,11 @@
-Hello, it's Light. :wave:
+# Hello, it's Light! :wave:
 
- I'm on Telegram - [@justanotherlight](https://t.me/justanotherlight)
+I love to code. I love science. I love seeing the world progress beyond people's imaginations. I want to create a future filled with fun.
 
-:chart_with_upwards_trend: my github stats
+At work, I'm mostly using TypeScript for web development or for tools that ease some aspects of web development.  
+Sometimes, I use Python for AI-related POCs.  
 
-WIP. \[Coming soon (probably)\]
+Outside work, I love working in Rust and TypeScript. I work on random personal projects and try out new libraries.  
+My recent favourite is [leptos-rs](https://github.com/leptos-rs/leptos) and I'll probably use it for my next personal project.
 
-:bulb: :mag: stackoverflow stats  
-
-[![Mahesh Bansod's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1443630&layout=compact&theme=dark)](https://stackoverflow.com/users/1443630/mahesh-bansod)
+You can email me or say hi to me on telegram - [@justanotherlight](https://t.me/justanotherlight)
