@@ -6,6 +6,5 @@ At work, I'm mostly using TypeScript for web development or for tools that ease 
 Sometimes, I use Python for AI-related POCs.  
 
 Outside work, I love working in Rust and TypeScript. I work on random personal projects and try out new libraries.  
-My recent favourite is [leptos-rs](https://github.com/leptos-rs/leptos) and I'll probably use it for my next personal project.
 
 You can email me or say hi to me on telegram - [@justanotherlight](https://t.me/justanotherlight)
