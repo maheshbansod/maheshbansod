@@ -1,10 +1,9 @@
-# Hello, it's Light! :wave:
+# Hey there, I'm Light! :bulb:
 
-I love to code. I love science. I love seeing the world progress beyond people's imaginations. I want to create a future filled with fun.
+👨‍💻 Coding enthusiast 🚀 | 🔬 Science lover 🌍 | 🌟 Imagining a future full of fun 🎉
 
-At work, I'm mostly using TypeScript for web development or for tools that ease some aspects of web development.  
-Sometimes, I use Python for AI-related POCs.  
+**Day Job:** I'm TypeScript's biggest fan! Building web wonders and nifty dev tools. 🖥️ Sometimes, I sprinkle Python magic for AI experiments. 🧙
 
-Outside work, I love working in Rust and TypeScript. I work on random personal projects and try out new libraries.  
+**After Hours:** Rust & TypeScript are my trusty companions. Cooking up wild personal projects and toying with the hottest libraries. 💡
 
-You can email me or say hi to me on telegram - [@justanotherlight](https://t.me/justanotherlight)
+📧 Shoot me an email or drop a hi on Telegram at [@justanotherlight](https://t.me/justanotherlight) Let's chat! 📲
