@@ -7,3 +7,5 @@
 **After Hours:** Rust & TypeScript are my trusty companions. Cooking up wild personal projects and toying with the hottest libraries. 💡
 
 📧 Shoot me an email or drop a hi on Telegram at [@justanotherlight](https://t.me/justanotherlight) Let's chat! 📲
+
+[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshbansod)](https://github.com/anuraghazra/github-readme-stats)
