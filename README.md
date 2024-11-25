@@ -10,4 +10,4 @@
 
 [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshbansod&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshbansod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshbansod&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
